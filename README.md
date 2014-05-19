@@ -1,4 +1,4 @@
-THIS IS A TEST APPLICATION
+THIS IS A TEST APPLICATION V6
 This readme file provides a brief overview of the file and folder structure
 included in the default MontageJS project directory.
 
