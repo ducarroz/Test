@@ -1,0 +1,15 @@
+total 56
+drwxr-xr-x 7 vagrant vagrant 4096 May 19 22:18 .
+drwxr-xr-x 9 root    root    4096 May 19 18:41 ..
+drwxr-xr-x 4 vagrant vagrant 4096 May 19 18:41 assets
+drwxr-xr-x 8 vagrant vagrant 4096 May 19 22:17 .git
+-rw-r--r-- 1 vagrant vagrant 1533 May 19 22:15 index.html
+-rw-r--r-- 1 vagrant vagrant   32 May 19 20:28 LICENSE.md
+drwxr-xr-x 4 vagrant vagrant 4096 May 19 18:41 node_modules
+-rw-r--r-- 1 vagrant vagrant   28 May 19 18:41 .npmignore
+-rw-r--r-- 1 vagrant vagrant  299 May 19 18:41 package.json
+-rw-rw-r-- 1 vagrant vagrant    0 May 19 22:18 qwe.txt
+-rw-r--r-- 1 vagrant vagrant 4144 May 19 18:49 README.md
+-rw-r--r-- 1 vagrant vagrant  660 May 19 18:41 run-tests.html
+drwxr-xr-x 2 vagrant vagrant 4096 May 19 18:41 test
+drwxr-xr-x 3 vagrant vagrant 4096 May 19 18:41 ui
